@@ -53,7 +53,7 @@ You may not have encountered the `span` tag before, so if you are curious, take
 a moment to [read up on some reference material] to better understand its use.
 
 Run `httpserver` and copy the IP address it provides into a new browser tab to
-see your work in action.  Alternatively, if you are working in a local
+see your work in action. Alternatively, if you are working in a local
 environment, open `index.html` to view the Album Cover as you build it.
 
 To run the tests, hit `ctrl`+`C` to stop the server, then run `learn` to make
