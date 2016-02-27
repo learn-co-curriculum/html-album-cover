@@ -1,6 +1,8 @@
 @font-face {
-  font-family: 'Avenir Next Condensed';
-  src: url('https://s3.amazonaws.com/learn-verified/Avenir+Next+Condensed.ttc');
+  font-family: 'AvenirNextCondensed-Bold';
+  src: url('../fonts/AvenirNextCondensed-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/AvenirNextCondensed-Bold.woff') format('woff'), url('../fonts/AvenirNextCondensed-Bold.ttf')  format('truetype'), url('../fonts/AvenirNextCondensed-Bold.svg#AvenirNextCondensed-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 * {
@@ -21,7 +23,7 @@ body {
   background: -ms-linear-gradient(top,  rgba(79,79,79,1) 0%,rgba(19,19,19,1) 57%,rgba(19,19,19,1) 100%); /* IE10+ */
   background: linear-gradient(to bottom,  rgba(79,79,79,1) 0%,rgba(19,19,19,1) 57%,rgba(19,19,19,1) 100%); /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f4f4f', endColorstr='#131313',GradientType=0 ); /* IE6-8 */
-  font-family: 'Avenir Next Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Avenir Next Condensed', Helvetica, sans-serif;
   font-size: 100%;
 }
 
@@ -78,7 +80,7 @@ img {
 .wrapper {
   width: 800px;
   margin: 0 auto;
-  /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
+  /*background: url(../MOCKUP.jpg);*/
 }
 
 .album {
@@ -92,7 +94,7 @@ img {
 }
 
 #front {
-  background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
+  background: url(../images/cover.jpg);
   background-size: 100%;
   text-align: center;
 } 
