@@ -7,7 +7,6 @@ require 'spec_helper'
 describe 'index.html' do
 
   before(:all) do
-    puts 'Making comparison please wait...'
     start_server_thread
     create_screenshots
   end
