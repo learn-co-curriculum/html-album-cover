@@ -10,4 +10,5 @@ This challenege asks the you recreate the album cover shown in the MOCKUP.jpg im
 4. Open the MOCKUP.jpg image and take a look at it.
 5. Use the comments in the index.html file to create the elements neccesary to recreate the album cover shown in MOCKUP.jpg. Also use SOURCE.md to copy and paste all neccesary filler text.
 6. Open up index.html in the browser as well for a side by side comparison with MOCKUP.jpg as you work.
-7. When you're done type `learn` in Terminal to run your local test build.
+7. Please <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run.
+8. When you're done type `learn` in Terminal to run your local test build.

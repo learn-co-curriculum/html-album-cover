@@ -1,6 +1,8 @@
 @font-face {
-  font-family: 'Avenir Next Condensed';
-  src: url('../fonts/Avenir Next Condensed.ttc');
+  font-family: 'AvenirNextCondensed-Bold';
+  src: url('../fonts/AvenirNextCondensed-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/AvenirNextCondensed-Bold.woff') format('woff'), url('../fonts/AvenirNextCondensed-Bold.ttf')  format('truetype'), url('../fonts/AvenirNextCondensed-Bold.svg#AvenirNextCondensed-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 * {
