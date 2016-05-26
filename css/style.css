@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'AvenirNextCondensed-Bold';
-  src: url('../fonts/AvenirNextCondensed-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/AvenirNextCondensed-Bold.woff') format('woff'), url('../fonts/AvenirNextCondensed-Bold.ttf')  format('truetype'), url('../fonts/AvenirNextCondensed-Bold.svg#AvenirNextCondensed-Bold') format('svg');
+  src: url('https://s3.amazonaws.com/learn-verified/Avenir+Next+Condensed.ttc')
   font-weight: normal;
   font-style: normal;
 }
